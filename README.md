@@ -2,7 +2,7 @@
 
 ## :computer: Projeto
 
-Aplicação web para simular um dos maiores serviços streaming de filmes, séries e documentários do mundo, projeto desenvolvido no lab 
+Aplicação web para simular a interface de um dos maiores serviços streaming de filmes, séries e documentários do mundo, projeto desenvolvido no lab 
 [Recriando a Interface do Netflix](https://digitalinnovation.one/) da Digital Innovation One.
 
 ## :wrench: Recursos Utilizados
