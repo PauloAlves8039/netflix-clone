@@ -95,3 +95,10 @@ header nav a:hover{
 .filme-principal .container{
     width: 70%;
 }
+
+/****** IMG *******/
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
