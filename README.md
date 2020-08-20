@@ -17,6 +17,10 @@ Aplicação web para simular a interface de um dos maiores serviços streaming d
 
 ```git clone https://github.com/PauloAlves8039/netflix-clone.git```
 
+## :pencil: Licença
+
+Esse projeto está sob a licença [MIT](https://github.com/PauloAlves8039/netflix-clone/blob/master/LICENSE.md)
+
 ## Author
 
 :boy: [Paulo Alves](https://github.com/PauloAlves8039)
